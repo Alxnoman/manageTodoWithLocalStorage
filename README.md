@@ -1,3 +1,4 @@
+![IMG_20250802_205822](https://github.com/user-attachments/assets/f1e00392-3883-4220-a65a-b07489b0de5a)
 ![17541480887364870716602054148905](https://github.com/user-attachments/assets/22488a5e-cefb-498f-a856-1e67d6cea675)
 📝 Project Overview
 A feature-rich Todo application built with React and Vite that helps you manage your daily tasks efficiently. This project demonstrates modern React patterns including:
