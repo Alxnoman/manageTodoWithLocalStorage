@@ -1,12 +1,19 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 Project Overview
+A feature-rich Todo application built with React and Vite that helps you manage your daily tasks efficiently. This project demonstrates modern React patterns including:
+State management with Context API
+Persistent storage using localStorage
+React Hooks (useState, useEffect, useReducer)
+Clean component architecture
+✨ Features
+✅ CRUD Operations
+Add new todos with validation
+Edit existing todo items
+Delete todos with confirmation
+Toggle completion status
+✅ Persistent Storage
+Automatically saves todos to localStorage
+Retrieves saved todos on page reload
+✅ User Experience
+Responsive design works on all devices
+Clean, intuitive interface
+Keyboard-friendly controls
